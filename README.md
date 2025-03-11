@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 - Codificación neuronal
 - Stem cells
 ---
-📫 Contacto:
+### 📫 Contacto:
 - 📧 isaactrpasion@iibiomedicas.unam.mx  
 
-🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas
 - **Python**
+
+### 🔬 Actualmente desarrollando un proyecto sobre caracterización de organoides mesencefálicos en el Instuto de Investigaciones Biomédicas (UNAM)
   
 
 
