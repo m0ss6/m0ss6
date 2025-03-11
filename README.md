@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tecnologías y Herramientas
 - **Python**
 
-### 🔬 Actualmente desarrollando un proyecto sobre caracterización de organoides mesencefálicos en el Instuto de Investigaciones Biomédicas (UNAM)
+#### 🔬 Actualmente me encuentro desarrollando un proyecto sobre caracterización de organoides mesencefálicos en el Instituto de Investigaciones Biomédicas (UNAM)
   
 
 
